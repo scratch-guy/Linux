@@ -4,3 +4,4 @@ its not a shell script
 
 im hungry
 
+edit: it needs chmod permissons
